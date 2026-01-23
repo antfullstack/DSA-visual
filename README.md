@@ -15,3 +15,6 @@ Manim (python library)
 4.Improving the docs. 
 5.Reporting issues. 
 
+## AI Convention
+**Note**: AI-generated code will be accepted in the visualizations, however, it is encouraged to keep DSA explanations and code human-made. No one is perfect, it is encouraged to contribute in keeping the repo in a dev to dev climate.
+
