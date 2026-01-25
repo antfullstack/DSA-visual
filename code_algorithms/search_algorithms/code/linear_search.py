@@ -9,7 +9,4 @@ A few words about linear search:
 
 Linear search is a searching algorithm with an O(n) time complexity, meaning that the worst possible case is to take as many attempts to match an element
 as the length of the array given to it. It searches of a given value x in a data structure (primarily an array), and it is a very simple and intuitive algorithm.
-
-
-
 """
